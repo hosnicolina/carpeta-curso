@@ -1,0 +1,11 @@
+{
+  "name": "carpeta-curso",
+  "version": "1.0.0",
+  "description": "Modulo Readline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hosni Colina",
+  "license": "MIT"
+}
